@@ -36,6 +36,7 @@ git clone https://github.com/Setya78/dijaga-patroni-replication.git
 cd dijaga-patroni-replication
 
 
+
 2. Configuration Files
 There are two main configuration files in this repository:
 
